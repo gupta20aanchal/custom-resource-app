@@ -6,3 +6,5 @@ public/build
 .shopify
 *.log
 .react-router
+*.sqlite
+*.sqlite-journal
